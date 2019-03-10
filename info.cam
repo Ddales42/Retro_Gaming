@@ -1,0 +1,4 @@
+Fonction open window
+alert('Hello world!');
+<link rel="stylesheet" href="style.css" />
+  border: 4px solid black;
