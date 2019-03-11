@@ -1,0 +1,21 @@
+body
+{
+    color: white;
+    background: black;
+    margin: auto;
+    padding: 10 2em;
+    border-radius: 10px;
+    background: black;
+    border: 3px solid grey;
+    width: 905px;
+    height: 805px;
+}
+p
+{
+  text-align: center;
+}
+#img_figth
+{
+  width: 100px;
+  height: 100px;
+}
