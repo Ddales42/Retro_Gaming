@@ -1,6 +1,5 @@
 body
 {
-    text-align: center;
     color: white;
     background: black;
     margin: auto;
@@ -12,12 +11,9 @@ body
 }
 h1
 {
-  font-family: Impact;
+  text-align: center;
 }
-#commande
+p
 {
-  background: white;
-  width: 300px;
-  height: 300px;
-  border: 3px solid grey;
+  text-align: center;
 }
