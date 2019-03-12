@@ -9,10 +9,23 @@ body
     border: 3px solid grey;
     width: 905px;
     height: 805px;
+    list-style-type:none;
 }
 p
 {
+  list-style-type:none;
   text-align: center;
+}
+h2
+{
+  color: white;
+  text-align: center;
+}
+a
+{
+  text-align: center;
+  font-family: Impact;
+  font-size: 10px;
 }
 #img_figth
 {

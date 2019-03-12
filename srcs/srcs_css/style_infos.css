@@ -6,14 +6,42 @@ body
     padding: 10 2em;
     border-radius: 10px;
     border: 3px solid grey;
-    width: 905px;
-    height: 805px;
+    width: 705px;
+    height: 605px;
 }
 h1
 {
+  color: white;
   text-align: center;
+  list-style-type:none;
 }
 p
 {
+  font-size: 10px;
   text-align: center;
+}
+li
+{
+  font-size: 20px;
+  text-align: center;
+}
+nav ul
+{
+  list-style-type:none;
+  display: flex;
+  justify-content: center;
+  padding-left: 2px;
+}
+#ver
+{
+  margin-top: 26px;
+  margin-left: 6px;
+  height: 10px;
+  width: 70px;
+  border-radius: 5px;
+  position: relative;
+  right: -5px;
+  bottom: 10px;
+  box-shadow: 0px 4px 4px #1c1a19;
+  margin-bottom: 30px;
 }
