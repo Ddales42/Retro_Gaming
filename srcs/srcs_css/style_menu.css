@@ -34,6 +34,7 @@ nav a
 }
 nav a:hover
 {
+  text-align: center;
   color: white;
   background-color: gold;
   border-bottom: 3px solid #760001;

@@ -17,6 +17,12 @@ body
   width: 705px;
   height: 605px;
 }
+p
+{
+  font-family: Arial;
+  font-size: 10px;
+  color: white;
+}
 #ver
 {
   margin-top: 15px;
@@ -29,10 +35,4 @@ body
   width: 30px;
   box-shadow: 0px 4px 4px #1c1a19;
   margin-bottom: 30px;
-}
-p
-{
-  font-family: Arial;
-  font-size: 10px;
-  color: white;
 }

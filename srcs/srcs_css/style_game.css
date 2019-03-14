@@ -5,11 +5,16 @@ body
     margin: auto;
     padding: 10 2em;
     border-radius: 10px;
-    background: black;
     border: 3px solid grey;
     width: 905px;
     height: 805px;
     list-style-type:none;
+}
+h1
+{
+  margin-bottom: -29px;
+  font-family: Impact;
+  text-align: center;
 }
 p
 {
@@ -27,8 +32,36 @@ a
   font-family: Impact;
   font-size: 10px;
 }
+.progress-bar-active
+{
+  width: 250px;
+  height: 20px;
+  color:  white;
+}
+.progress-bar
+{
+  color: white;
+}
+.bs
+{
+
+  margin: 100px;
+}
 #img_figth
 {
   width: 100px;
   height: 100px;
+}
+#ver
+{
+  margin-top: 15px;
+  height: 15px;
+  width: 60px;
+  border-radius: 5px;
+  position: relative;
+  right: -5px;
+  bottom: -400px;
+  width: 30px;
+  box-shadow: 0px 4px 4px #1c1a19;
+  margin-bottom: 30px;
 }
