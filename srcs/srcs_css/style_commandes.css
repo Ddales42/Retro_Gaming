@@ -7,17 +7,43 @@ body
     padding: 10 2em;
     border-radius: 10px;
     border: 3px solid grey;
-    width: 905px;
-    height: 805px;
+    width: 705px;
+    height: 605px;
 }
 h1
 {
   font-family: Impact;
 }
-#commande
+p
 {
-  background: white;
-  width: 300px;
-  height: 300px;
+  font-family: Arial;
+  font-size: 10px;
+  color: white;
+}
+h2
+{
+  font-family: Impact;
+  color: white;
+  margin-top: 5px;
+}
+.commande
+{
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  background-color: ;
+  width: 670px;
+  height: 470px;
   border: 3px solid grey;
+}
+#ver
+{
+  margin-top: 15px;
+  height: 15px;
+  width: 60px;
+  border-radius: 5px;
+  position: relative;
+  right: -5px;
+  bottom: 25px;
+  box-shadow: 0px 4px 4px #1c1a19;
 }
